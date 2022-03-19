@@ -1,0 +1,41 @@
+int -inmutable
+float -  inm
+complex - inm
+string - inm
+bool -inm
+
+list [] mutable
+set {} m
+tuple () inm
+dic [_:_,_:_] m
+
+data={"englis":80, "maths":99}
+data.add["science"]=90
+data.update({"social":75})
+
+id(data)
+
+
+////////////////////////////////////
+
+for i in range(1,5,2): print(i) #se salta 2 numeros
+
+1
+3
+
+??????????????????????????????????????''
+\n salto de linea
+
+print("RAM\nSita")
+Ram
+Sita
+
+-------------------------
+\t tabulador espacio
+print("RAM\tSita")
+Sam     Sita
+
+-------------------------
+#agregar coma
+print(1,"a", sep=",")
+1,a

@@ -1,0 +1,16 @@
+int -inmutable
+float -  inm
+complex - inm
+string - inm
+bool -inm
+
+list [] mutable
+set {} m
+tuple () inm
+dic [_:_,_:_] m
+
+data={"englis":80, "maths":99}
+data.add["science"]=90
+data.update({"social":75})
+
+id(data)
