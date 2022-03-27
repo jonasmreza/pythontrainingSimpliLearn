@@ -12,13 +12,10 @@ class Employee:
 
 # emp1 = Employee()
 # emp2 = Employee()
-#
 # emp1.readData()
 # emp2.readData()
-#
 # emp1.printData()
 # emp2.printData()
 # emp1.printCompany()
 # emp2.printCompany()
-
 Employee.printCompany()
