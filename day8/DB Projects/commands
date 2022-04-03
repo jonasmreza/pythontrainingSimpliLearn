@@ -1,0 +1,6 @@
+DDL Create, alter, DROP¨, truncate
+DML insert, update, delete #data manipulation
+DCL (Data control language) grant, revokeDB admin
+TCL (transsacction control language) Commit rollback
+
+
